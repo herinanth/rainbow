@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.1.12",
+  "latestVersionCode": 12,
+  "url": "https://herinanth.github.io",
+  "releaseNotes": [
+    "This is the text which will be shown on Update",
+    "Another Release Note"
+    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+  ]
+}

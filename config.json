@@ -1,7 +1,11 @@
 {
-  "latestVersion": "1.1.12",
-  "latestVersionCode": 12,
-  "url": "https://herinanth.github.io",
+  "latestVersion": "1.8",
+  "latestVersionCode": 18,
+  "disableRequest": {
+    "below": 10,
+    "on": "40 20 353"
+  },
+  "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
     "This is the text which will be shown on Update",
     "Another Release Note"

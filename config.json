@@ -1,6 +1,10 @@
 {
   "latestVersion": "2.0",
   "latestVersionCode": 20,
+  "disableRequest": {
+    "below": 19,
+    "on": "40 20 353"
+  },
   "url": "https://github.com/herinanth/rainbow",
   "releaseNotes": [
     "This is the text which will be shown on Update",

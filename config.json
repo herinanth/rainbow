@@ -1,4 +1,6 @@
 {
+  "latestVersion": "1.9",
+  "latestVersionCode": 19,
   "url": "https://github.com/herinanth/rainbow",
   "releaseNotes": [
     "This is the text which will be shown on Update",

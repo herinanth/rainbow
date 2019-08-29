@@ -1,13 +1,13 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": 20,
+  "latestVersion": "2.1",
+  "latestVersionCode": 21,
   "disableRequest": {
     "below": 19,
     "on": "40 20 353"
   },
   "url": "https://github.com/herinanth/rainbow",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
+    "Aggiorna alla 2.1",
     "Another Release Note"
     "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
   ]

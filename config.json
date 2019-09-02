@@ -1,14 +1,15 @@
 {
-  "latestVersion": "2.1",
+  "latestVersion": "10.part3",
   "latestVersionCode": 21,
   "disableRequest": {
-    "below": 19,
-    "on": "40 20 353"
+    "below": 21,
+    "on": "19 20"
   },
-  "url": "https://github.com/herinanth/rainbow",
+  "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixp.iconpack",
   "releaseNotes": [
-    "Aggiorna alla 2.1",
-    "Another Release Note"
-    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+    "New of many icons options",
+    "Added 100+ adaptive icon",
+    "Added Analog Clock Widget",
+    "Added new 14 wallpapers"
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "latestVersion": "2.9",
-  "latestVersionCode": 29,
+  "latestVersion": "3.0",
+  "latestVersionCode": 30,
   "disableRequest": {
     "below": 21,
     "on": "19 20"
   },
   "url": "https://github.com/herinanth/rainbow/releases",
   "releaseNotes": [
-    "Aggiungete icone per dispositivi Samsung",
-    "Aggiunge le icone di alcuni nuovi servizi",
+    "Aggiunte icone per dispositivi Samsung",
+    "Aggiunte icone applicazioni Microsoft",
     "Aggiunto uno sfondo"
   ]
 }
